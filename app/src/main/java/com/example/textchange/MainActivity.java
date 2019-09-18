@@ -1,5 +1,7 @@
-package com.example.textchange;
 
+
+package com.example.textchange;
+//Test for new branch
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
